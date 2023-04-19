@@ -1,17 +1,32 @@
-# <Your-Project-Title>
+# DevConnect
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+USER STORY
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+AS A person searching for a remote job, I WANT to have access to a site that has a user profile SO THAT networking increases my chances of finding a good fit for a job.
 
-## Table of Contents (Optional)
+ACCEPTANCE CRITERIA
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
+GIVEN a remote job app, when I can create a user profile, THEN I am able to provide my personal information, work experience, and education to complete my profile.
+
+GIVEN the app, when I click on my profile, THEN I should be able to view my profile information including my resume, work experience, education and any other information I provided while creating the profile.
+
+GIVEN the app, when I click on my profile, THEN I should be able to see options to add comments to improve my resume, such as suggestions to improve my work experience, education or any other relevant information.
+
+GIVEN the app, when I click on my profile, THEN I should be able to search for remote jobs based on my preferences such as industry, job type, experience level, etc.
+
+GIVEN the app, when I search for remote jobs, THEN I should be able to see a list of available jobs that match my search criteria, and be able to save them to my profile for future reference.
+
+GIVEN the app, when I save a job to my profile, THEN I should be able to view the details of the job, such as the job description, requirements, salary, etc.
+
+GIVEN the app, when I save a job to my profile, THEN I should be able to view the status of the application, such as whether I have applied or not, and if I have, what the outcome of the application was.
+
+GIVEN the app, when I save a job to my profile, THEN I should be able to receive notifications when there is an update to the job application, such as an interview request or a rejection.
+
+GIVEN the app, when I receive feedback on my profile, THEN I should be able to view the feedback and take action to improve my profile based on the feedback.
+
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
